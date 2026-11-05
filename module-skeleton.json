@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-regional-packs-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-regional-packs",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_regional_packs_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/regional-packs.md",
+  "presentationPlan": "projects/accounting/flutter/regional-packs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
